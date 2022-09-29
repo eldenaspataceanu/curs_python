@@ -9,7 +9,7 @@ print(answer)
 
 life_nr = 0
 while life_nr < 3:
-    n = input('Litera este: ')
+    n = input('The letter is: ')
     n = n.lower()
     if len(n) != 1:
         print('You should type one letter!')
