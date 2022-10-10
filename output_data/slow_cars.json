@@ -1,0 +1,37 @@
+[
+  {
+    "brand": "BMW",
+    "model": "X3",
+    "hp": "70",
+    "price": "9000",
+    "unique_id": "1a8541e6-2c38-46e6-8f8b-52e9c94f9c84"
+  },
+  {
+    "brand": "Dacia",
+    "model": "Spring",
+    "hp": "110",
+    "price": "900",
+    "unique_id": "985ed726-c446-43a6-8a5c-9189e6f19b27"
+  },
+  {
+    "brand": "Golf",
+    "model": "4",
+    "hp": "90",
+    "price": "500",
+    "unique_id": "be81c05a-7c8c-4270-83ec-84a59c0c6bc1"
+  },
+  {
+    "brand": "Renault",
+    "model": "Megan",
+    "hp": "70",
+    "price": "1100",
+    "unique_id": "e76d8fe1-40ae-487b-b087-8aa644c77e51"
+  },
+  {
+    "brand": "Golf",
+    "model": "3",
+    "hp": "110",
+    "price": "940",
+    "unique_id": "312e03e4-0737-4535-a431-5814cb102096"
+  }
+]

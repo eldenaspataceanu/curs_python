@@ -1,0 +1,16 @@
+[
+  {
+    "brand": "Golf",
+    "model": "4",
+    "hp": "90",
+    "price": "500",
+    "unique_id": "be81c05a-7c8c-4270-83ec-84a59c0c6bc1"
+  },
+  {
+    "brand": "Golf",
+    "model": "3",
+    "hp": "110",
+    "price": "940",
+    "unique_id": "312e03e4-0737-4535-a431-5814cb102096"
+  }
+]
