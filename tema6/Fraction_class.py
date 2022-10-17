@@ -21,7 +21,7 @@ class Fraction:
 
         return Fraction(new_num, new_den)
 
-    def __invert__(self):
+    def inverse (self):
         return str(self.denominator) + "/" + str(self.numerator)
 
 
@@ -31,4 +31,4 @@ my_fr_2 = Fraction(1, 2)
 print(my_fr.__str__())
 print(my_fr.__add__(my_fr, my_fr_2))
 print(my_fr.__sub__(my_fr, my_fr_2))
-print(my_fr.__invert__())
+print(my_fr.inverse())
