@@ -1,0 +1,180 @@
+[
+  {
+    "name": "Daniel Albietz",
+    "image_path": "./images/41cdafd1-2fde-4577-ad63-dbfc68ae3470.jpg",
+    "details": {
+      "Adresse": "Im Hirshalm 10",
+      "PLZ": "4125",
+      "Ort": "Riehen",
+      "Geb. Datum": "31.07.1971",
+      "Berufliche T\u00e4tigkeit": "Advokat",
+      "Telefon G": "061 606 30 00",
+      "E-Mail": "dalbietz@gmx.ch",
+      "Homepage": "www.danielalbietz.ch",
+      "Wahlkreis": "Riehen",
+      "Partei": "Die Mitte",
+      "Bemerkungen": "Im Grossen Rat seit 1.2.2021"
+    }
+  },
+  {
+    "name": "Catherine Alioth",
+    "image_path": "./images/4a4d70e2-d04c-4a7f-b2e8-b4104c5b316a.jpg",
+    "details": {
+      "Adresse": "Leonhardskirchplatz 2",
+      "PLZ": "4051",
+      "Ort": "Basel",
+      "Geb. Datum": "11.03.1960",
+      "Berufliche T\u00e4tigkeit": "Biologin",
+      "Mobile": "076 366 65 63",
+      "E-Mail": "c.alioth@vtxmail.ch",
+      "Wahlkreis": "Grossbasel Ost",
+      "Partei": "Liberal-Demokratische Partei",
+      "Bemerkungen": "Im Grossen Rat seit 8.2.2017"
+    }
+  },
+  {
+    "name": "Nicole Amacher",
+    "image_path": "./images/a36f20df-c752-4ca3-8544-2ebde68faec3.jpg",
+    "details": {
+      "Adresse": "Spitalstrasse 38",
+      "PLZ": "4056",
+      "Ort": "Basel",
+      "Geb. Datum": "12.01.1972",
+      "Berufliche T\u00e4tigkeit": "Co- Gesch\u00e4ftsleiterin Surprise NGO",
+      "Telefon G": "061 564 90 62",
+      "Mobile": "078 678 58 47",
+      "E-Mail": "mail@nicoleamacher.ch",
+      "Wahlkreis": "Grossbasel West",
+      "Partei": "Sozialdemokratische Partei",
+      "Bemerkungen": "Im Grossen Rat seit 1.1.2018"
+    }
+  },
+  {
+    "name": "Lorenz Amiet",
+    "image_path": "./images/7c48b9e7-aa1d-4645-b9ad-bddc99e9753f.jpg",
+    "details": {
+      "Adresse": "Schaffhauserrheinweg 9",
+      "PLZ": "4058",
+      "Ort": "Basel",
+      "Geb. Datum": "05.03.1976",
+      "Berufliche T\u00e4tigkeit": "Unternehmer",
+      "Telefon G": "058 317 10 00",
+      "E-Mail": "mail@lorenzamiet.ch",
+      "Homepage": "www.lorenzamiet.ch",
+      "Wahlkreis": "Kleinbasel",
+      "Partei": "Schweizerische Volkspartei",
+      "Bemerkungen": "Im Grossen Rat seit 8.1.2019"
+    }
+  },
+  {
+    "name": "Andr\u00e9 Auderset",
+    "image_path": "./images/0a37fd4d-b17d-4df5-9dcd-5bcd9a1e502a.jpg",
+    "details": {
+      "Adresse": "SVS, Postfach",
+      "PLZ": "4019",
+      "Ort": "Basel",
+      "Geb. Datum": "20.09.1959",
+      "Berufliche T\u00e4tigkeit": "Gesch\u00e4ftsf\u00fchrer Schweiz. Vereinigung f\u00fcr Schifffahrt und Hafenwirtschaft",
+      "E-Mail": "Audersetbasel@gmail.com",
+      "Wahlkreis": "Kleinbasel",
+      "Partei": "Liberal-Demokratische Partei",
+      "Bemerkungen": "Im Grossen Rat seit 01.02.2010"
+    }
+  },
+  {
+    "name": "Ivo Balmer",
+    "image_path": "./images/fbf54aad-0ed6-4c90-9562-82451cca2a26.jpg",
+    "details": {
+      "Adresse": "Lothringerstrasse 166",
+      "PLZ": "4056",
+      "Ort": "Basel",
+      "Geb. Datum": "31.01.1984",
+      "Berufliche T\u00e4tigkeit": "Soziologe, Stadtgeograph",
+      "Mobile": "077 418 81 40",
+      "E-Mail": "ivo.balmer@mietshaeusersyndikat.ch",
+      "Wahlkreis": "Kleinbasel",
+      "Partei": "Sozialdemokratische Partei",
+      "Bemerkungen": "Im Grossen Rat seit 08.09.2021"
+    }
+  },
+  {
+    "name": "B\u00e9la Bartha",
+    "image_path": "./images/31bc32a9-295b-4415-b366-ef450a710c6f.jpg",
+    "details": {
+      "Adresse": "Mohrhaldenstrasse 131",
+      "PLZ": "4125",
+      "Ort": "Riehen",
+      "Geb. Datum": "05.12.1961",
+      "Berufliche T\u00e4tigkeit": "Gesch\u00e4ftsf\u00fchrer",
+      "Mobile": "076 588 73 70",
+      "E-Mail": "bela.bartha@gruene-bs.ch",
+      "Wahlkreis": "Riehen",
+      "Partei": "Gr\u00fcne Partei",
+      "Bemerkungen": "Im Grossen Rat seit 01.05.2022"
+    }
+  },
+  {
+    "name": "Olivier Battaglia",
+    "image_path": "./images/648854c7-b240-447b-8731-2582cc2a837b.jpg",
+    "details": {
+      "Adresse": "Baiergasse 43",
+      "PLZ": "4126",
+      "Ort": "Bettingen",
+      "Geb. Datum": "28.03.1965",
+      "Berufliche T\u00e4tigkeit": "Revisor",
+      "Mobile": "079 650 65 11",
+      "E-Mail": "olivier.battaglia@outlook.com",
+      "Wahlkreis": "Bettingen",
+      "Partei": "Aktives Bettingen",
+      "Bemerkungen": "Im Grossen Rat seit 8.2.2017"
+    }
+  },
+  {
+    "name": "Beda Baumgartner",
+    "image_path": "./images/05348464-ed76-42c2-867d-1e215f11cb1b.jpg",
+    "details": {
+      "Adresse": "Kleinh\u00fcningerstrasse 93",
+      "PLZ": "4057",
+      "Ort": "Basel",
+      "Geb. Datum": "09.10.1991",
+      "Berufliche T\u00e4tigkeit": "Projektleiter",
+      "Mobile": "079 536 76 87",
+      "E-Mail": "b.baumgartner91@gmail.com",
+      "Wahlkreis": "Kleinbasel",
+      "Partei": "Sozialdemokratische Partei",
+      "Bemerkungen": "Im Grossen Rat seit 1.2.2018"
+    }
+  },
+  {
+    "name": "Claudia Baumgartner",
+    "image_path": "./images/d82dcba4-210e-45cb-bcbc-2b3aecd4cd46.jpg",
+    "details": {
+      "Adresse": "Gundeldingerstrasse 432",
+      "PLZ": "4053",
+      "Ort": "Basel",
+      "Geb. Datum": "29.03.1968",
+      "Berufliche T\u00e4tigkeit": "Gesch\u00e4ftsf\u00fchrerin Tierpark Lange Erlen",
+      "Mobile": "076 578 27 27",
+      "E-Mail": "claudia.baumgartner@nextron.ch",
+      "Wahlkreis": "Grossbasel Ost",
+      "Partei": "Gr\u00fcnliberale Partei",
+      "Bemerkungen": "Im Grossen Rat seit 1.2.2021"
+    }
+  },
+  {
+    "name": "Patrizia Bernasconi",
+    "image_path": "./images/b414838a-26f3-4a92-881c-048bc0aaf3a3.jpg",
+    "details": {
+      "Adresse": "Blumenrain 32",
+      "PLZ": "4051",
+      "Ort": "Basel",
+      "Geb. Datum": "24.06.1966",
+      "Berufliche T\u00e4tigkeit": "Gesch\u00e4ftsleiterin",
+      "Mobile": "076 210 10 36",
+      "E-Mail": "ppb@pobox.ch",
+      "Wahlkreis": "Grossbasel Ost",
+      "Partei": "Basels starke Alternative!",
+      "Bemerkungen": "Im Grossen Rat seit 1.2.2003 bis 31.05.2016 und ab 1.2.2021"
+    }
+  }
+]
