@@ -23,14 +23,18 @@ class Portrait:
 
         image_element = self._driver.find_element(By.XPATH, './/figure[@class="chocolat-parent"]//img')
         image_data = requests.get(url=image_element.get_attribute('src')).content
-        self._image_path = f'./images/{self._id}.jpg'
+        self._image_path = f'images/{self._id}.jpg'
         with open(self._image_path, 'wb') as image_file:
             image_file.write(image_data)
 
         details_body = self._driver.find_element(By.ID, 'col_details')
-        title_details = details_body.find_elements(By.XPATH, './/dt[not(contains(.,"Titel"))]')
-        element_details = details_body.find_elements(By.XPATH, './/dd[not(contains(.,"Dr."))]')
-        for title_detail, element_detail in zip(title_details[2::], element_details[2::]):
+        title_details = details_body.find_elements(By.XPATH,
+                                                   './/dt[not(contains(.,"Titel") or contains(.,"Bemerkungen") or '
+                                                   'contains(.,"Home "))]')
+        element_details = details_body.find_elements(By.XPATH,
+                                                     './/dd[not(contains(.,"Dr.") or contains(.,"Grossen") or '
+                                                     'contains(.,"www"))]')
+        for title_detail, element_detail in zip(title_details[2:], element_details[2:]):
             specs = title_detail.text
             specs_1 = element_detail.text
             self._details[specs] = specs_1
@@ -40,10 +44,8 @@ class Portrait:
         self._driver.switch_to.window(self._driver.window_handles[-1])
 
     def to_dict(self):
-         return {
-             'name': self._name,
-             'image_path': self._image_path,
-             'details': self._details
-         }
-
-
+        return {
+            'name': self._name,
+            'image_path': self._image_path,
+            'details': self._details,
+        }
