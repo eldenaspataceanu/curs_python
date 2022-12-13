@@ -1,0 +1,152 @@
+[
+  {
+    "name": "Daniel Albietz",
+    "image_path": "images/b72fc07e-7775-4112-85dc-a77145387c82.jpg",
+    "details": {
+      "Adresse": "Im Hirshalm 10",
+      "PLZ": "4125",
+      "Ort": "Riehen",
+      "Geb. Datum": "31.07.1971",
+      "Berufliche Tätigkeit": "Advokat",
+      "Telefon G": "061 606 30 00",
+      "E-Mail": "dalbietz@gmx.ch",
+      "Homepage": "Riehen",
+      "Wahlkreis": "Die Mitte"
+    }
+  },
+  {
+    "name": "Catherine Alioth",
+    "image_path": "images/867e3ef0-a7b6-46d2-8556-43dc1c815e0e.jpg",
+    "details": {
+      "Adresse": "Leonhardskirchplatz 2",
+      "PLZ": "4051",
+      "Ort": "Basel",
+      "Geb. Datum": "11.03.1960",
+      "Berufliche Tätigkeit": "Biologin",
+      "Mobile": "076 366 65 63",
+      "E-Mail": "c.alioth@vtxmail.ch",
+      "Wahlkreis": "Grossbasel Ost",
+      "Partei": "Liberal-Demokratische Partei"
+    }
+  },
+  {
+    "name": "Nicole Amacher",
+    "image_path": "images/1fc92aee-6e8e-4c9b-b58c-3b4ce6398df6.jpg",
+    "details": {
+      "Adresse": "Spitalstrasse 38",
+      "PLZ": "4056",
+      "Ort": "Basel",
+      "Geb. Datum": "12.01.1972",
+      "Berufliche Tätigkeit": "Co- Geschäftsleiterin Surprise NGO",
+      "Telefon G": "061 564 90 62",
+      "Mobile": "078 678 58 47",
+      "E-Mail": "mail@nicoleamacher.ch",
+      "Wahlkreis": "Grossbasel West",
+      "Partei": "Sozialdemokratische Partei"
+    }
+  },
+  {
+    "name": "Lorenz Amiet",
+    "image_path": "images/f33d65ca-66f5-44c2-b394-8a1701ba7fc4.jpg",
+    "details": {
+      "Adresse": "Schaffhauserrheinweg 9",
+      "PLZ": "4058",
+      "Ort": "Basel",
+      "Geb. Datum": "05.03.1976",
+      "Berufliche Tätigkeit": "Unternehmer",
+      "Telefon G": "058 317 10 00",
+      "E-Mail": "mail@lorenzamiet.ch",
+      "Homepage": "Kleinbasel",
+      "Wahlkreis": "Schweizerische Volkspartei"
+    }
+  },
+  {
+    "name": "André Auderset",
+    "image_path": "images/347f3ee0-f019-422a-bec0-27354f7afef5.jpg",
+    "details": {
+      "Adresse": "SVS, Postfach",
+      "PLZ": "4019",
+      "Ort": "Basel",
+      "Geb. Datum": "20.09.1959",
+      "Berufliche Tätigkeit": "Geschäftsführer Schweiz. Vereinigung für Schifffahrt und Hafenwirtschaft",
+      "E-Mail": "Audersetbasel@gmail.com",
+      "Wahlkreis": "Kleinbasel",
+      "Partei": "Liberal-Demokratische Partei"
+    }
+  },
+  {
+    "name": "Ivo Balmer",
+    "image_path": "images/55ee21d9-054f-4f6c-b502-c280859c5b1e.jpg",
+    "details": {
+      "Adresse": "Lothringerstrasse 166",
+      "PLZ": "4056",
+      "Ort": "Basel",
+      "Geb. Datum": "31.01.1984",
+      "Berufliche Tätigkeit": "Soziologe, Stadtgeograph",
+      "Mobile": "077 418 81 40",
+      "E-Mail": "ivo.balmer@mietshaeusersyndikat.ch",
+      "Wahlkreis": "Kleinbasel",
+      "Partei": "Sozialdemokratische Partei"
+    }
+  },
+  {
+    "name": "Béla Bartha",
+    "image_path": "images/01445e3e-8973-4b65-a1f8-b302a9d605e1.jpg",
+    "details": {
+      "Adresse": "Mohrhaldenstrasse 131",
+      "PLZ": "4125",
+      "Ort": "Riehen",
+      "Geb. Datum": "05.12.1961",
+      "Berufliche Tätigkeit": "Geschäftsführer",
+      "Mobile": "076 588 73 70",
+      "E-Mail": "bela.bartha@gruene-bs.ch",
+      "Wahlkreis": "Riehen",
+      "Partei": "Grüne Partei"
+    }
+  },
+  {
+    "name": "Olivier Battaglia",
+    "image_path": "images/f40eaa6d-95b0-4191-9523-fe9029747c7f.jpg",
+    "details": {
+      "Adresse": "Baiergasse 43",
+      "PLZ": "4126",
+      "Ort": "Bettingen",
+      "Geb. Datum": "28.03.1965",
+      "Berufliche Tätigkeit": "Revisor",
+      "Mobile": "079 650 65 11",
+      "E-Mail": "olivier.battaglia@outlook.com",
+      "Wahlkreis": "Bettingen",
+      "Partei": "Aktives Bettingen"
+    }
+  },
+  {
+    "name": "Beda Baumgartner",
+    "image_path": "images/4cc6ab20-d136-48b0-8574-a4c5157cdd75.jpg",
+    "details": {
+      "Adresse": "Kleinhüningerstrasse 93",
+      "PLZ": "4057",
+      "Ort": "Basel",
+      "Geb. Datum": "09.10.1991",
+      "Berufliche Tätigkeit": "Projektleiter",
+      "Mobile": "079 536 76 87",
+      "E-Mail": "b.baumgartner91@gmail.com",
+      "Wahlkreis": "Kleinbasel",
+      "Partei": "Sozialdemokratische Partei"
+    }
+  },
+  {
+    "name": "Claudia Baumgartner",
+    "image_path": "images/9ba95f81-8b8c-48d2-a9ad-957221011348.jpg",
+    "details": {
+      "Adresse": "Gundeldingerstrasse 432",
+      "PLZ": "4053",
+      "Ort": "Basel",
+      "Geb. Datum": "29.03.1968",
+      "Berufliche Tätigkeit": "Geschäftsführerin Tierpark Lange Erlen",
+      "Mobile": "076 578 27 27",
+      "E-Mail": "claudia.baumgartner@nextron.ch",
+      "Wahlkreis": "Grossbasel Ost",
+      "Partei": "Grünliberale Partei"
+    }
+  }
+]
